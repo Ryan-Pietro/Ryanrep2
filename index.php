@@ -22,12 +22,15 @@
 
 
 
-
-
 </ul></div>
 <div class="nav-button">
     <button class="btn"id="loginBtn">Sign In</button>
     <button class="btn"id="RegisterBtn">Sign Up</button>
+</div>
+</nav>
+<div class="text-box">
+    <h1>ELUTHIA</h1>
+    <p>Welcome to ELUTHIA, where nature meets artistry to create stunning outdoor spaces. As Kenya’s premier landscaping company, ELUTHIA is dedicated to transforming ordinary landscapes into extraordinary havens of beauty and tranquility. Our mission is to bring your vision to life through innovative design, meticulous craftsmanship, and sustainable practices.</p>
 </head>
 <body>
     <section class="header"><nav>
