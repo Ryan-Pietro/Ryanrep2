@@ -31,7 +31,7 @@
 <div class="text-box">
     <h1>ELUTHIA</h1>
     <p>Welcome to ELUTHIA, where nature meets artistry to create stunning outdoor spaces. As Kenya’s premier landscaping company, ELUTHIA is dedicated to transforming ordinary landscapes into extraordinary havens of beauty and tranquility. Our mission is to bring your vision to life through innovative design, meticulous craftsmanship, and sustainable practices.</p>
-    <a href=""class="hero-btn">Who we are</a>
+    <a href=""class="hero-btn">Ourteam</a>
 </div>
 
 </section>
@@ -41,7 +41,10 @@
     <div class="row">
     <div class="Ourteam-col">
     <h3>Why Choose ELUTHIA</h3>
-
+    Customized Solutions: We understand that every client and every landscape is unique. Our tailored solutions ensure that your outdoor space is a true reflection of your vision and needs.
+Expert Team: Our team comprises highly skilled professionals with a deep understanding of local flora and climate conditions, ensuring optimal results for your landscape.
+Quality and Reliability: At ELUTHIA, we pride ourselves on delivering top-notch quality and reliable services, ensuring your complete satisfaction from start to finish.
+Sustainable Practices: We prioritize sustainability in all our projects, striving to create landscapes that are not only beautiful but also environmentally responsible.
 </head>
 <body>
     <section class="header"><nav>
