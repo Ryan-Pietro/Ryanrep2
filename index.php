@@ -26,7 +26,7 @@
 
 </ul></div>
 <div class="nav-button">
-    <button class="btn"id="loginBtn">Marry me</button>
+    <button class="btn"id="loginBtn">Sign In</button>
 </head>
 <body>
     <section class="header"><nav>
