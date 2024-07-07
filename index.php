@@ -36,7 +36,9 @@
 
 </section>
 <setion class="Who we are">
-    <h1>Who we are</h1>
+    <h1>WHO WE ARE</h1>
+    <p>ELUTHIA is a team of passionate and skilled landscape architects, horticulturists, and garden designers committed to enhancing the natural beauty of Kenya's diverse environments. With years of experience in the industry, we have honed our expertise in creating bespoke landscapes that reflect the unique tastes and preferences of our clients.</p>
+    
 </head>
 <body>
     <section class="header"><nav>
