@@ -35,10 +35,13 @@
 </div>
 
 </section>
-<setion class="Who we are">
-    <h1>WHO WE ARE</h1>
+<setion class="Ourteam">
+    <h2>WHO WE ARE</h2>
     <p>ELUTHIA is a team of passionate and skilled landscape architects, horticulturists, and garden designers committed to enhancing the natural beauty of Kenya's diverse environments. With years of experience in the industry, we have honed our expertise in creating bespoke landscapes that reflect the unique tastes and preferences of our clients.</p>
     <div class="row">
+    <div class="Ourteam-col">
+    <h3>Why Choose ELUTHIA</h3>
+
 </head>
 <body>
     <section class="header"><nav>
