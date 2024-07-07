@@ -11,7 +11,7 @@
     <li><a href="Aboutus.html">Aboutus</a></li>
     <li><a href="Projects.html">Projects</a></li>
     <li><a href="Ourteam.html">Ourteam</a></li>
-    <li><a href="Designservices.html">Earthscience</a></li>
+    <li><a href="Designservices.html">Designservices</a></li>
     <li><a href="Home.html">Earthscience</a></li>
     <li><a href="Portfolio.html">Earthscience</a></li>
 
