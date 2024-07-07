@@ -9,6 +9,11 @@
 <div class="nav-links"><ul><li><a href="index.html">Home</a></li>
     <li><a href="contactus.html">ContactUs</a></li>
     <li><a href="Aboutus.html">Aboutus</a></li>
+    <li><a href="Projects.html">Earthscience</a></li>
+    <li><a href="Ourteam.html">Earthscience</a></li>
+    <li><a href="Designservices.html">Earthscience</a></li>
+    <li><a href="Home.html">Earthscience</a></li>
+    <li><a href="Portfolio.html">Earthscience</a></li>
 
 
 
@@ -20,6 +25,8 @@
 
 
 </ul></div>
+<div class="nav-button">
+    <button class="btn"id="loginBtn">Sign In</button>
 </head>
 <body>
     <section class="header"><nav>
