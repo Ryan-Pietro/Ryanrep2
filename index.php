@@ -27,6 +27,7 @@
 </ul></div>
 <div class="nav-button">
     <button class="btn"id="loginBtn">Sign In</button>
+    <button class="btn"id="RegisterBtn">Sign Up</button>
 </head>
 <body>
     <section class="header"><nav>
