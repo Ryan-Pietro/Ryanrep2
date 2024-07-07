@@ -13,7 +13,7 @@
     <li><a href="Ourteam.html">Ourteam</a></li>
     <li><a href="Designservices.html">Designservices</a></li>
     <li><a href="Home.html">Home</a></li>
-    <li><a href="Portfolio.html">Earthscience</a></li>
+    <li><a href="Portfolio.html">Portfolio</a></li>
 
 
 
