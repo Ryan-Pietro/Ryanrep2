@@ -1,3 +1,12 @@
-h1{
-    colour:red;
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    width:100%;
+    min: height 100vh;
+    background-image:linear-gradient(rbga(4,9,30,0.7),rbga(4,9,30,0.7)),url(images/pexels-pixabay-259588.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
 }

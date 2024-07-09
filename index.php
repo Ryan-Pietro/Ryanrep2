@@ -54,7 +54,7 @@
     <p></p>
     <div class="row">
     <div class="local-col">
-        <img src="images/pexels-pixabay-259588.jpg">
+        <img src="images/pexels-photo-13673655.jpeg">
         <div class ="layer">
             <h3>Karen</h3>
 </div>
