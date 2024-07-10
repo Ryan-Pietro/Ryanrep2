@@ -38,16 +38,16 @@
        
 
     </section>
-    <section class="Innovations">
-        <h1>WHAT  WE OFFER </h1>
-        <p>Greentech, a company focused on environmentally sustainable technology, typically offers a wide range of products and services designed to promote sustainability and reduce environmental impact.<br>Here’s an overview of what Greentech might offer:</p>
+    <section class="Ourteam">
+        <h1>WHO WE ARE</h1>
+        <p>ELUTHIA is a team of passionate and skilled landscape architects, horticulturists, and garden designers committed to enhancing the natural beauty of Kenya's diverse environments. With years of experience in the industry, we have honed our expertise in creating bespoke landscapes that reflect the unique tastes and preferences of our clients.</p>
         <div class="row">
-            <div class="innovations-col">
-                <h3>Renewable Energy Solutions</h3>
-                <p>Solar Power Systems: Design, installation, and maintenance of solar panels for residential, commercial, and industrial use.
-                    Wind Energy Systems: Development and installation of wind turbines for various scales of energy needs.
-                    Hydropower Solutions: Implementation of small-scale and large-scale hydropower systems.
-                    Geothermal Energy: Installation of geothermal heat pumps and power plants.</p>
+            <div class="Ourteam-col">
+                <h3>Why Choose ELUTHIA</h3>
+                <p>- Customized Solutions: We understand that every client and every landscape is unique. Our tailored solutions ensure that your outdoor space is a true reflection of your vision and needs.</p>
+                                <p>- Expert Team: Our team comprises highly skilled professionals with a deep understanding of local flora and climate conditions, ensuring optimal results for your landscape.</p>
+                                <p>- Quality and Reliability: At ELUTHIA, we pride ourselves on delivering top-notch quality and reliable services, ensuring your complete satisfaction from start to finish.</p>
+                                <p>- Sustainable Practices: We prioritize sustainability in all our projects, striving to create landscapes that are not only beautiful but also environmentally responsible.</p>
             </div>
             <div class="innovations-col">
                 <h3>Energy Efficiency Services</h3>
