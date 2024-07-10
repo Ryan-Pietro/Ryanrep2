@@ -31,8 +31,8 @@
             </div>
         </nav>
         <div class="text-box">
-            <h1>GreenTech</h1>
-            <p>Welcome to GreenTech Innovations Ltd., where innovation meets sustainability. At GreenTech, we are passionate about harnessing the power of technology to create a greener, more sustainable future for our planet.<br> From renewable energy solutions to eco-friendly products, we're dedicated to making a positive impact on the environment while meeting the needs of our clients. Explore our site to learn more about our innovative solutions and how you can join us in building a better tomorrow.</p>
+            <h1>ELUTHIA</h1>
+            <p>Welcome to ELUTHIA, where nature meets artistry to create stunning outdoor spaces. As Kenya’s premier landscaping company, ELUTHIA is dedicated to transforming ordinary landscapes into extraordinary havens of beauty and tranquility. Our mission is to bring your vision to life through innovative design, meticulous craftsmanship, and sustainable practices.</p>
             <a href="" class="hero-btn">Visit us to know more</a>
         </div>
        
