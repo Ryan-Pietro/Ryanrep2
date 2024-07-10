@@ -49,35 +49,31 @@
                                 <p>- Quality and Reliability: At ELUTHIA, we pride ourselves on delivering top-notch quality and reliable services, ensuring your complete satisfaction from start to finish.</p>
                                 <p>- Sustainable Practices: We prioritize sustainability in all our projects, striving to create landscapes that are not only beautiful but also environmentally responsible.</p>
             </div>
-            <div class="innovations-col">
-                <h3>Energy Efficiency Services</h3>
-                <p>Energy Audits: Detailed assessments to identify energy-saving opportunities in buildings and industrial processes.
-                    Retrofitting Services: Upgrading existing systems with energy-efficient alternatives, such as LED lighting, efficient HVAC systems, and smart thermostats.
-                    Building Automation Systems: Integration of smart technologies to optimize energy use in commercial and residential buildings.</p>
+            <div class="Ourteam-col">
+                <h3>OUR PROJECTS</h3>
+                <p>ELUTHIA has a diverse portfolio of successful projects, ranging from private residences and urban gardens to commercial developments and public spaces. Our work is characterized by meticulous attention to detail, innovative design, and a deep respect for nature.</p>
             </div>
-            <div class="innovations-col">
-                <h3> Sustainable Transportation</h3>
-                <p>Electric Vehicles (EVs): Provision of electric cars, bikes, scooters, and supporting infrastructure like charging stations.
-                    Public Transport Solutions: Development of eco-friendly public transport options, including electric buses and rail systems.
-                    Fleet Electrification: Consulting and services for converting corporate vehicle fleets to electric or hybrid models.</p>
+            <div class="Ourteam-col">
+                <h3>OUR APPROACH</h3>
+                <p>At ELUTHIA, we believe in a holistic approach to landscaping. We take the time to understand the unique characteristics of your site, including soil composition, microclimate, and existing vegetation. This allows us to design and implement solutions that are tailored to the specific conditions of your property, ensuring long-lasting beauty and functionality.</p>
             </div>
         </div>
     </section>
-    <section class="global">
-    <!------ global-->
-    <h1>the global greentech</h1>
+    <section class="local">
+    <!------ LOCAL-->
+    <h1>Our local reach</h1>
     <p>The global green tech innovation landscape is rapidly evolving, driven by increasing environmental awareness, regulatory pressures, and advancements in technology. Here are some key trends and developments in green tech worldwide</p>
 
     <div class="row">
-    <div class="global-col">
-        <img src="images/company 1.jpg">
+    <div class="local-col">
+        <img src="images/landscape-design-961676_640.jpg">
     <div class="layer">
-        <h3>london</h3>
+        <h3>Karen</h3>
     </div>
     </div>
 
-    <div class="global-col">
-        <img src="images/company2.jpg">
+    <div class="local-col">
+        <img src="images/20.jpg">
     <div class="layer">
         <h3>New York</h3>
     </div>
