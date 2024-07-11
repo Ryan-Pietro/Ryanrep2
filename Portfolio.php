@@ -12,13 +12,16 @@
             <h1>ELUTHIA Landscaping</h1>
             <nav>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Aboutus.html">Aboutus</a></li>
-                    <li><a href="contactus.html">contactus</a></li>
-                    <li><a href="projects.html">projects</a></li>
-                    <li><a href="Ourteam.html">Ourteam</a></li>
-                    <li><a href="Designservices.html">Designservices</a></li>
-                    <li><a href="Portfolio">Portfolio</a></li>
+                <li><a href="index.php">Home</a></li>
+                    <li><a href="Aboutus.php">Aboutus</a></li>
+                    <li><a href="contactus.php">contactus</a></li>
+                    <li><a href="projects.php">projects</a></li>
+                    <li><a href="Ourteam.php">Ourteam</a></li>
+                    <li><a href="Designservices.php">Designservices</a></li>
+                    <li><a href="Portfolio.php">Portfolio</a></li>
+                    <li><a href="Nursery.php">Nursery</a></li>
+                    <li><a href="signin.php">SignIn</a></li>
+                    <li><a href="signup.php">SignUp</a></li>
                 </ul>
             </nav>
         </div>
