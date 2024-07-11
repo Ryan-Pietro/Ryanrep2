@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="r.css">
 </head>
 <body>
-    <nav class="nav">
+    <nav class="nav-links">
     <li><a href="index.php">Home</a></li>
                     <li><a href="Aboutus.php">Aboutus</a></li>
                     <li><a href="contactus.php">contactus</a></li>

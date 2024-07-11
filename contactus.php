@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <div class="container">
+        <div class="nav-links">
             <h1>Contact Us</h1>
             <nav>
                 <ul>
