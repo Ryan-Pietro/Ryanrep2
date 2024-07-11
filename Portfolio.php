@@ -14,8 +14,8 @@
                 <ul>
                 <li><a href="index.php">Home</a></li>
                     <li><a href="Aboutus.php">Aboutus</a></li>
-                    <li><a href="contactus.php">contactus</a></li>
-                    <li><a href="projects.php">projects</a></li>
+                    <li><a href="contactus.php">Contactus</a></li>
+                    <li><a href="projects.php">Projects</a></li>
                     <li><a href="Ourteam.php">Ourteam</a></li>
                     <li><a href="Designservices.php">Designservices</a></li>
                     <li><a href="Portfolio.php">Portfolio</a></li>
