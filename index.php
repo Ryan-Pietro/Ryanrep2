@@ -16,13 +16,16 @@
             <a href="index.html"><img src="images/home-office-569153_1280.jpg"></a>
             <div class="nav-links">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Aboutus.html">Aboutus</a></li>
-                    <li><a href="contactus.html">contactus</a></li>
-                    <li><a href="projects.html">projects</a></li>
-                    <li><a href="Ourteam.html">Ourteam</a></li>
-                    <li><a href="Designservices.html">Designservices</a></li>
-                    <li><a href="Portfolio">Portfolio</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Aboutus.php">Aboutus</a></li>
+                    <li><a href="contactus.php">contactus</a></li>
+                    <li><a href="projects.php">projects</a></li>
+                    <li><a href="Ourteam.php">Ourteam</a></li>
+                    <li><a href="Designservices.php">Designservices</a></li>
+                    <li><a href="Portfolio.php">Portfolio</a></li>
+                    <li><a href="Nursery.php">Nursery</a></li>
+                    <li><a href="signin.php">SignIn</a></li>
+                    <li><a href="signup.php">SignUp</a></li>
                 </ul>
             </div>
             <div class="nav-button">
@@ -75,14 +78,14 @@
     <div class="local-col">
         <img src="images/20.jpg">
     <div class="layer">
-        <h3>New York</h3>
+        <h3>Lavington</h3>
     </div>
     </div>
 
-    <div class="global-col">
-        <img src="images/company 3.jpg">
+    <div class="local-col">
+        <img src="images/source-586668_640.jpg">
     <div class="layer">
-        <h3>Washington</h3>
+        <h3>Runda</h3>
     </div>
     </div>
 
@@ -92,31 +95,28 @@
 </html>
 <section class="facilities">
     <h1>Our facilities</h1>
-    <p>The facilities of a green tech company typically align with its mission to promote sustainability and reduce environmental impact. Here are some common facilities and features you might find in a green tech company:</p>
+    <p>ELUTHIA prides itself on having state-of-the-art facilities that enable us to deliver top-quality landscaping services across Kenya. Our facilities are designed to support every aspect of the landscaping process, from design and planning to installation and maintenance. Here’s a brief description of what facilities ELUTHIA might have:</p>
     <div class="row">
         <div class="facilities-col">
-            <img src="images/logo.jpg">
-            <h3>Sustainable Office Spaces</h3>
-            <P>Energy-Efficient Buildings: Offices designed with energy-saving features such as efficient HVAC systems, LED lighting, and smart thermostats.
-                Renewable Energy Integration: Installation of solar panels, wind turbines, or other renewable energy systems to power office operations.
-                Green Building Materials: Use of eco-friendly materials for construction and furnishings, such as recycled wood, low-VOC paints, and sustainable carpets.</P>
+            <img src="images/landscape-architect-student-learning-garden-plan-design-n-gm1400177474-453832322.htm">
+            <h3> Design Studio</h3>
+            <P>Our design studio is equipped with the latest technology and software for landscape architecture and garden design.<br> This space allows our team of designers and architects to create detailed, innovative plans and visualizations for our clients.</P>
         </div>
         <div class="facilities-col">
-            <img src="images/facility 2.jpg">
-            <h3> Research and Development Labs</h3>
-            <P>State-of-the-Art Laboratories: Equipped with advanced equipment and facilities for research and development of green technologies.
-                Prototype Development Areas: Spaces dedicated to prototyping and testing new products, such as renewable energy systems or energy-efficient devices.</P>
+            <img src="images/nursery-4263883_640.jpg">
+            <h3>Nursery and Greenhouse</h3>
+            <P>ELUTHIA operates a large nursery and greenhouse where we cultivate a wide variety of plants, including native species, ornamental plants, and seasonal flowers. <br>This facility ensures that we have a steady supply of healthy, robust plants for our projects.</P>
         </div>
 
     </div>
 
 </section>
 
-<section class="testimonials">
+<section class="Ratings">
     <h1>feedback</h1>
-    <p>Feedback on green tech can vary widely depending on the specific technology, its implementation, and the stakeholders involved. Here are some common types of feedback that green tech initiatives may receive</p>
+    <p>"The transformation of our office garden has significantly improved our workplace atmosphere. ELUTHIA’s team was professional and exceeded our expectations." – Mary Njoroge, Facilities Manager</p>
     <div class="row">
-        <div class="testimonials-col">
+        <div class="Ratings-col">
             <img src="images/ceo1.jpg">
         <div>
             <P>Thank you for your proposal on green technology. Here's our feedback:
@@ -135,10 +135,10 @@
             </div>
         </div>
     </div>
-        <div class="testimonials-col">
+        <div class="Ratings-col">
             <img src="images/ceo2.jpg">
         <div>
-            <P>Thank you for submitting your green tech proposal. Here's our feedback:Clear and thorough presentation.
+            <P>Thank you for submitting your ELUTHIA proposal. Here's our feedback:Clear and thorough presentation.
                 Consider providing a detailed cost-benefit analysis.
                 Explore potential partnerships in the green tech sector</P>
                 <h3>CEO:Christopher</h3>
@@ -155,14 +155,14 @@
     </div>
         
 </section>
-<section class="contuct">
+<section class="contact">
     <h1>KNOW MORE ABOUTUS </h1>
-    <a href="" class="hero-btn">CONTUCT US</a>
+    <a href="" class="hero-btn">CONTACT US</a>
 </section>
 
 <section class="footer">
     <h4>ABOUT US</h4>
-    <P>Green technology, also known as clean technology, refers to the development and application of products, equipment, and systems that harness renewable materials and energy sources,<br> reduce greenhouse gas emissions, and minimize harm to the environment</P>
+    <P>Discover how ELUTHIA can transform your outdoor space. <br>Contact us today for a consultation and let’s create something beautiful together.</P>
    
     
 </section>
